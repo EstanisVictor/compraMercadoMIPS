@@ -2,7 +2,7 @@
 
 .data
 	pedircompra: .asciiz "Informe o valor da compra: "
-
+    
 	erro: .asciiz "Não tem dinheiro para realizar essa compra"
 	mensagem: .asciiz "Valor da compra: "
 	espaco: .asciiz " "
